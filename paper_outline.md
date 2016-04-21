@@ -15,11 +15,11 @@
   - [Janz 2015](http://onlinelibrary.wiley.com/doi/10.1111/insp.12104/abstract) 
 
 #### 1.3. Version control & `GitHub`: a good way of teaching about the relevance of scientific replication and learn good replication practices
-    
-    - [Jones 2013](https://thepoliticalmethodologist.com/2013/11/18/gitgithub-transparency-and-legitimacy-in-quantitative-research/)
-    - [Sandve et al. 2013](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
-    - [Bryan et al. 2016](http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)
-    - [Bryan STAT-545](http://stat545.com/)
+  
+  - [Jones 2013](https://thepoliticalmethodologist.com/2013/11/18/gitgithub-transparency-and-legitimacy-in-quantitative-research/)
+  - [Sandve et al. 2013](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+  - [Bryan et al. 2016](http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)
+  - [Bryan STAT-545](http://stat545.com/)
 
 ### 2. How we did it
 
