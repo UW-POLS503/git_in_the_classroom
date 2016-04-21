@@ -21,13 +21,8 @@
   - [Bryan et al. 2016](http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)
   - [Bryan STAT-545](http://stat545.com/)
 
-### 2. How we did it
+### 2. Using GitHub in the classroom
 
-#### 2.1. First year graduate students
-
-
-
-
-
+#### 2.1. First year political science graduate students
 
 
